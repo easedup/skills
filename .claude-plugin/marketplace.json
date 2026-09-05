@@ -1,0 +1,12 @@
+{
+  "name": "eduplugins-skills",
+  "owner": {
+    "name": "EduPlugins",
+    "url": "https://github.com/eduplugins/skills"
+  },
+  "metadata": {
+    "description": "EduPlugins public Agent Skills",
+    "version": "0.1.0"
+  },
+  "plugins": []
+}
