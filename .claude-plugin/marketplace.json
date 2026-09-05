@@ -1,11 +1,11 @@
 {
-  "name": "eduplugins-skills",
+  "name": "easedup-skills",
   "owner": {
-    "name": "EduPlugins",
-    "url": "https://github.com/eduplugins/skills"
+    "name": "EasedUP",
+    "url": "https://github.com/easedup/skills"
   },
   "metadata": {
-    "description": "EduPlugins public Agent Skills",
+    "description": "EasedUP public Agent Skills",
     "version": "0.1.0"
   },
   "plugins": []

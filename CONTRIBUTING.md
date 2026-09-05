@@ -1,4 +1,4 @@
-Thank you for your interest in EduPlugins Skills.
+Thank you for your interest in EasedUP Skills.
 
 We are not currently accepting contributions.
 
@@ -9,7 +9,7 @@ For now:
 
 Though we are not accepting contributions right now, we'd still love to hear from you! If you have
 feedback or suggestions, please open an issue in this repository or contact us
-[here](https://eduplugins.com/contact). We'll open up for community contributions once we're ready,
+[here](https://easedup.com/contact). We'll open up for community contributions once we're ready,
 so stay tuned!
 
 ## Adding a skill (maintainer notes)
