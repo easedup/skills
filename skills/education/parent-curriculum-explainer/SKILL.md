@@ -207,9 +207,9 @@ Before delivering, verify:
 
 After any adjustments, offer the natural next step:
 
-> "If you'd like to follow this up with a direct message or letter home —
-> for example, to introduce yourself or a new topic — I can help draft
-> that too."
+> "If you'd like to follow this up with a more general newsletter, excursion
+> note, or letter home — for example, to introduce yourself or cover
+> something other than this unit's content — I can draft that too."
 
 ---
 

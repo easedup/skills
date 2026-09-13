@@ -54,8 +54,9 @@ close the gap between current and desired performance (see Evidence base).
   from the relevant achievement standards for the stated curriculum, subject,
   and year level — ask the teacher to paste them in if they have them handy,
   or use whatever curriculum lookup capability is available in this session.
-- Optional: a teacher voice profile (tone/style guidance), from
-  `references/voice-style.md` if present, or supplied directly.
+- Optional: a teacher voice profile (tone/style guidance) — a
+  `[teacher-name]-voice-profile.md` reference file if one was produced
+  earlier in this session or supplied directly (see `voice-style-capture`).
 
 If any of these are already available in context — from earlier in this
 conversation or supplied directly by the teacher or another tool — use them
@@ -227,4 +228,5 @@ Deliver each discrete item (e.g., student comment, feedback phrase, adjustment c
 ---
 
 ## Reference files
-- `references/voice-style.md` — Teacher voice profile (if captured)
+- A `[teacher-name]-voice-profile.md` reference file, if supplied — teacher
+  voice for written outputs

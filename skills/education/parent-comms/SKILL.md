@@ -4,12 +4,15 @@ version: 1.1.0
 released: 2026-08-16
 description: >
   Drafts parent-facing communications in the teacher's own voice — class
-  newsletters, curriculum update letters, excursion/event notes, learning
-  updates, end-of-term wrap-ups, and learning concern letters. Applies a
-  supplied voice profile or writing sample when given one, otherwise writes
-  in warm, plain English. Trigger when a teacher asks to write a newsletter,
-  letter home, excursion note, permission note, learning update, or a letter
-  about a student's learning concerns.
+  newsletters, excursion/event notes, learning updates, end-of-term
+  wrap-ups, and learning concern letters. Applies a supplied voice profile
+  or writing sample when given one, otherwise writes in warm, plain English.
+  Trigger when a teacher asks to write a newsletter, letter home, excursion
+  note, permission note, learning update, or a letter about a student's
+  learning concerns. For a letter or handout that translates curriculum
+  content itself into plain English for families — what students are
+  learning this unit and why — a parent curriculum explainer fits better
+  than this skill.
 keywords:
   content-type: Administrative Guidance
   thematic-category: Education Objectives And Materials
@@ -79,6 +82,13 @@ Ask if not clear:
 > a learning update, or something else? And what's the key message or
 > information to get across?"
 
+If the request is really about translating curriculum content itself —
+explaining what students are learning this unit and why, in plain English —
+that's a parent curriculum explainer's job, not this skill's. Hand off:
+> "That sounds like a curriculum explainer rather than a general update —
+> I can build that instead, translating the actual content descriptions
+> into plain English for families. Want me to do that?"
+
 If the teacher mentions this term's communications have all been logistical
 or concern-driven, suggest a positive or appreciative update too — routine,
 warm contact (not only problem-driven contact) is what builds the strongest
@@ -100,7 +110,6 @@ point families can use if they need one.
 | Type | Typical length | Tone |
 |---|---|---|
 | Class newsletter | 200–350 words | Warm, conversational, informative |
-| Curriculum overview letter | 300–500 words | Informative, accessible, professional |
 | Excursion / event note | 150–300 words | Practical, clear, action-oriented |
 | Learning update (positive) | 100–200 words | Warm, specific, encouraging |
 | Learning concern letter | 200–350 words | Careful, respectful, collaborative |
