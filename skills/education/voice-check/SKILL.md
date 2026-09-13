@@ -4,13 +4,17 @@ version: 1.0.0
 released: 2026-08-24
 description: >
   Generic final pass that strips AI writing tells and generic phrasing from
-  any text this session drafts for a student, family member, or colleague to
-  read — on top of whatever domain rules the drafting skill already applied,
-  never in place of them. Applies a voice profile silently if one is active
-  and never touches grades, achievement levels, curriculum codes, dates, or
-  facts. Trigger whenever this session's skills hand over text someone will
-  read, or on direct requests like "make this sound less like AI," "this
-  reads like a template," or "check this for AI writing" on any pasted draft.
+  the teacher's own outgoing text — anything this session drafts for a
+  student, family member, or colleague to read — on top of whatever domain
+  rules the drafting skill already applied, never in place of them. Applies
+  a voice profile silently if one is active and never touches grades,
+  achievement levels, curriculum codes, dates, or facts. Trigger whenever
+  this session's skills hand over text someone will read, or on direct
+  requests like "make this sound less like AI" or "this reads like a
+  template" on a draft the teacher is about to send. For evaluating whether
+  a student's own submitted work might be undisclosed AI use, an AI use
+  conversation skill fits better — this skill never evaluates a student's
+  submission, only the teacher's outgoing writing.
 keywords:
   content-type: Pedagogical Guidance
   thematic-category: Education Objectives And Materials
@@ -31,11 +35,10 @@ references:
 # Voice Check
 
 A generic last read, not a rewrite of the drafting skill's own rules. If the
-text came from `communication/report-comment`, `communication/parent-comms`,
-`assessment/feedback-comment-bank`, or similar, their domain rules (comment
-variation, tone, achievement-standard grounding) already ran — this skill
-only catches what's left: phrasing that reads as AI-written or generic,
-regardless of what kind of document it's in.
+text came from `report-comment`, `parent-comms`, `feedback-comment-bank`, or
+similar, their domain rules (comment variation, tone, achievement-standard
+grounding) already ran — this skill only catches what's left: phrasing that
+reads as AI-written or generic, regardless of what kind of document it's in.
 
 Fix how it sounds. Never touch what it says.
 
@@ -45,8 +48,8 @@ Fix how it sounds. Never touch what it says.
 
 1. **Get the draft.** Already in context if another skill just produced it;
    otherwise ask the teacher to paste it.
-2. **Apply a voice profile if one is active** (see
-   `communication/voice-style-capture`) — silently, no announcement.
+2. **Apply a voice profile if one is active** (see `voice-style-capture`) —
+   silently, no announcement.
 3. **Scan** for the patterns below.
 4. **Rewrite**, preserving every fact, name, grade, date, and curriculum
    reference exactly. If a fix would require inventing a detail, don't —
@@ -119,4 +122,4 @@ chat text outside the block.
 
 ## Reference files
 - A `[teacher-name]-voice-profile.md` reference file, if supplied — applied
-  silently to the rewrite (see `communication/voice-style-capture`)
+  silently to the rewrite (see `voice-style-capture`)

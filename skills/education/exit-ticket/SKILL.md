@@ -94,7 +94,10 @@ Good for: checking understanding of concepts, seeing student reasoning.
 
 **Multiple choice** — 3–4 options with one clearly correct answer and plausible
 distractors that reveal common misconceptions.
-Good for: quick whole-class check, easy to scan across 30 responses.
+Good for: quick whole-class check, easy to scan across 30 responses. For a
+deeper bank of hinge questions purpose-built around named misconceptions
+and a re-teach decision rule, a diagnostic question bank fits better than a
+single exit-ticket question.
 
 **Discussion / talk partner prompt** — A question students discuss for 2 minutes,
 then a selected few share. No written output required.

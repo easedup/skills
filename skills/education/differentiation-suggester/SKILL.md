@@ -131,7 +131,8 @@ demand each suggestion removes, not just "extra help."
 *Adjusting the input (how content reaches students):*
 - [Specific option — e.g. "Provide a text at a lower readability level that
   covers the same concept, with key vocabulary bolded and defined in a
-  margin glossary"]
+  margin glossary" — a reading level adapter can build this directly from
+  an existing text if one exists already]
 - [Alternative modality — e.g. "Offer an audio or video explanation of the
   concept before the reading task"]
 - [Chunking — e.g. "Break the task into 3 separate steps with a checkpoint
@@ -246,7 +247,10 @@ Only apply a framework lens if the teacher says yes.
 ## Step 4: Offer to build into the plan
 
 > "Would you like me to select the most relevant options from this menu and
-> build them directly into a lesson plan or unit outline?"
+> build them directly into a lesson plan or unit outline? If [EAL term]
+> support is the main thing you need for this class, I can also build a
+> fuller language scaffold pack — glossary, sentence frames, and
+> translanguaging strategies — rather than just this section's options."
 
 ---
 

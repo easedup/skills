@@ -208,8 +208,10 @@ Only apply a framework if the teacher says yes.
 ## Step 5: Offer next steps
 
 > "Here's the review. The highest-priority adjustments are [X and Y].
-> Would you like me to draft any of these additions directly — or a fuller
-> set of differentiated materials built out for this lesson?"
+> Would you like me to draft any of these additions directly, adapt the
+> reading level of a specific text, build a fuller [EAL term] scaffold
+> pack, or put together a broader set of differentiated materials for this
+> lesson?"
 
 ---
 
