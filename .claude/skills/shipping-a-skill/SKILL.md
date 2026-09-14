@@ -3,11 +3,11 @@ name: shipping-a-skill
 version: 1.0.0
 released: 2026-08-23
 description: >
-  Writes and ships a skill in this repo end to end — slug and category,
-  frontmatter and description, body craft, evidence base, plugins.json
-  registration, and the generated-output rebuild. Use when adding a skill
-  under skills/, revising an existing one, editing a skill in .claude/, or
-  porting a skill in from another project.
+  Writes and ships a skill in this repo end to end — slug, frontmatter and
+  description, body craft, evidence base, plugins.json registration, and the
+  generated-output rebuild. Use when adding a skill under skills/, revising
+  an existing one, editing a skill in .claude/, or porting a skill in from
+  another project.
 ---
 
 # Shipping a skill
@@ -26,10 +26,10 @@ when that principle bites; read the named section rather than the whole file.
 
 The pipeline forks at the first step, and the fork governs everything after it:
 
-- **Published** — `skills/<category>/<name>/`, generated out into `plugins/` and
-  installed by educators. Always **model-invoked**: an educator installing a
-  plugin never types a skill name, so a skill the agent cannot reach is a skill
-  nobody uses. Steps 1–7 all apply.
+- **Published** — `skills/<name>/`, generated out into `plugins/` and installed
+  by educators. Always **model-invoked**: an educator installing a plugin never
+  types a skill name, so a skill the agent cannot reach is a skill nobody uses.
+  Steps 1–7 all apply.
 - **Repo tooling** — `.claude/skills/<name>/`, for building this repo. No
   evidence base, no registration, no build. Steps 2, 3 and 7 only, and the
   invocation choice is live — see _Invocation_ in `CRAFT.md`.
@@ -40,8 +40,8 @@ Read these from the repo rather than recalling them:
 
 - **Schema** — `docs/data-model.md` for the frontmatter fields and what the build
   validates.
-- **House style** — two or three sibling skills in the target category. They are
-  the source of truth for section shape, voice, and the `keywords` vocabulary.
+- **House style** — two or three existing skills under `skills/`. They are the
+  source of truth for section shape, voice, and the `keywords` vocabulary.
   Reuse existing keyword values; a one-off value fragments the catalog taxonomy.
 - **Evidence conventions** — `docs/evidence/README.md` plus one worked file.
 - **Bundles** — `plugins.json`, for which educator roles exist and what each
@@ -54,20 +54,16 @@ this serves, the pedagogical claim behind it, and any sources they already hold.
 
 ### 1. Fix the slug
 
-The slug is `<category>/<name>`, and the folder is `skills/<category>/<name>/`.
-Categories in use: `assessment`, `communication`, `differentiation`, `inquiry`,
-`planning`, `developer`. Reach for an existing one; a new category costs every
-consumer a new heading in the catalog, so it earns its place only when no
-existing category holds the skill without stretching.
+The slug is `<name>`, and the folder is `skills/<name>/`.
 
-Before committing to a new folder, read every skill in the category and settle
-whether this is a new skill or an edit to one that exists. Two skills with
-adjacent descriptions compete for the same trigger and both fire unreliably.
-`CRAFT.md` → _When to split_ gives the two cuts that justify a separate skill;
-absent one of them, revise the existing skill instead.
+Before committing to a new folder, read the existing skills under `skills/`
+and settle whether this is a new skill or an edit to one that exists. Two
+skills with adjacent descriptions compete for the same trigger and both fire
+unreliably. `CRAFT.md` → _When to split_ gives the two cuts that justify a
+separate skill; absent one of them, revise the existing skill instead.
 
-**Done when:** slug chosen, and every existing skill in the category has been
-read closely enough to rule out overlap.
+**Done when:** slug chosen, and existing skills have been read closely enough
+to rule out overlap.
 
 ### 2. Write the frontmatter
 
@@ -118,7 +114,7 @@ agent to fetch it — from whichever curriculum lookup is available in the sessi
 falling back to asking the teacher to paste it. It reuses content already
 established earlier in the conversation rather than re-fetching, and it grounds
 every descriptor it writes in what was fetched.
-`skills/assessment/rubric-builder` is the reference implementation.
+`skills/rubric-builder` is the reference implementation.
 
 **Leave the judgement with the teacher.** Achievement levels, grades, and
 diagnostic calls come from the teacher; the skill drafts around them. Output is a
@@ -205,6 +201,3 @@ particular to this repo:
   which is worse than absent.
 - **Decorative references** — sources listed in frontmatter that the body never
   leans on. Evidence backing is a load-bearing claim, not a credential.
-- **Category creep** — a new category added for one skill, leaving a category of
-  one and a catalog heading that earns nothing.
-  

@@ -1,4 +1,4 @@
-Thank you for your interest in EasedUP Skills.
+Thank you for your interest in EasedUP Education Skills.
 
 We are not currently accepting contributions.
 
@@ -14,10 +14,10 @@ so stay tuned!
 
 ## Adding a skill (maintainer notes)
 
-1. Create `skills/<category>/<name>/SKILL.md` — `name` and `description` frontmatter are required;
+1. Create `skills/<name>/SKILL.md` — `name` and `description` frontmatter are required;
    see [template/SKILL.md](template/SKILL.md).
-2. Add `skills/<category>/<name>/LICENSE.txt` (Apache 2.0 unless the skill needs different terms).
+2. Add `skills/<name>/LICENSE.txt` (Apache 2.0 unless the skill needs different terms).
 3. Add the skill to a plugin bundle in [.claude-plugin/marketplace.json](.claude-plugin/marketplace.json)
    if it should be installable as (or part of) a Claude Code plugin.
-4. `home`'s `sync-content` step picks up any `skills/<category>/<name>/SKILL.md` in this repo
+4. `home`'s `sync-content` step picks up any `skills/<name>/SKILL.md` in this repo
    automatically — no change needed there.
