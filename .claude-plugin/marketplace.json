@@ -8,5 +8,12 @@
     "description": "EasedUP public Agent Skills",
     "version": "0.1.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "accreditation-evidence-builder",
+      "description": "Helps a teacher prepare and submit an initial accreditation application",
+      "path": "skills/education/accreditation-evidence-builder/SKILL.md",
+      "version": "1.0.0"
+    }
+  ]
 }
