@@ -15,18 +15,10 @@ description: >
   a student's own submitted work might be undisclosed AI use, an AI use
   conversation skill fits better — this skill never evaluates a student's
   submission, only the teacher's outgoing writing.
-keywords:
-  content-type: Pedagogical Guidance
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Teacher Voice & Style Capture
-    - Resource Generation
-  topics: Teacher Professional Practice
-  keyword:
-    - Voice Profile
-    - Tone Matching
-    - AI Writing Detection
+prompts:
+  - "/voice-check Check this parent email for AI writing tells before I send it."
+  - "/voice-check Make this report comment sound less like a template and more like me."
+  - "Give this drafted newsletter a final voice pass before it goes out using /voice-check."
 references:
   - "AITSL"
   - "John Hattie and Helen Timperley, Review of Educational Research (American Educational Research Association)"

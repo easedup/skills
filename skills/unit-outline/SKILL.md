@@ -10,21 +10,10 @@ description: >
   a unit overview to share with colleagues or use for reporting. Always
   validates with the teacher before expanding into full lesson-by-lesson
   detail.
-keywords:
-  content-type: Lesson/Unit Plan
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Curriculum & Lesson Planning
-    - Resource Generation
-    - Personalised Learning
-  topics: Unit Design
-  keyword:
-    - Scope And Sequence
-    - Essential Questions
-    - Big Ideas
-    - Backward Design
-    - Assessment Overview
+prompts:
+  - "/unit-outline Map out a high-level unit outline for a Year 7 history term."
+  - "/unit-outline Create a scope and sequence with essential questions for my science unit."
+  - "Build a unit overview to share with colleagues before I plan full lessons using /unit-outline."
 references:
   - "Australian Curriculum, Assessment and Reporting Authority (ACARA), V9 Australian Curriculum"
   - "Australian Institute for Teaching and School Leadership (AITSL)"

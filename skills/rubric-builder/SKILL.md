@@ -10,21 +10,10 @@ description: >
   context if already established earlier in the conversation. Trigger when a
   teacher needs a marking rubric, scoring guide, or grading criteria for any
   assessment task. Works standalone.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Assessment And Feedback
-    - Curriculum & Lesson Planning
-    - Student Progress Tracking
-  topics: Assessment Moderation
-  keyword:
-    - Marking Rubric
-    - Grade Descriptors
-    - Achievement Standards
-    - Moderation
-    - Grade Bands
+prompts:
+  - "/rubric-builder Build a marking rubric for this Year 10 persuasive essay task."
+  - "/rubric-builder Create grading criteria drawn from the achievement standards for this assessment."
+  - "Design a 4-criteria rubric so two markers can grade consistently using /rubric-builder."
 references:
   - "Anders Jonsson and Gunilla Svingby, Educational Research Review (Elsevier)"
   - "Australian Institute for Teaching and School Leadership (AITSL)"

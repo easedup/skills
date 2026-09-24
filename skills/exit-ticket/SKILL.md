@@ -10,22 +10,10 @@ description: >
   ticket, a quick check, or another way to gauge whether students grasped
   today's lesson before moving on, or as the closing step after a lesson
   plan already in context.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Formative Assessment
-    - Assessment And Feedback
-    - Student Progress Tracking
-    - Personalised Learning
-  topics: Assessment For Learning
-  keyword:
-    - Exit Ticket
-    - Formative Check
-    - Learning Intention
-    - Self-Assessment
-    - Differentiated Task
+prompts:
+  - "/exit-ticket Create a quick exit ticket to check if students understood today's lesson on ratios."
+  - "/exit-ticket Give me a differentiated exit ticket for mixed-readiness Year 5 students."
+  - "Write a self-assessment style exit ticket tied to today's learning intention using /exit-ticket."
 references:
   - "NSW Department of Education (CESE)"
   - "NSW Department of Education"

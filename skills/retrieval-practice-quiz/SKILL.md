@@ -13,21 +13,10 @@ description: >
   single check on today's lesson, an exit ticket fits better; for
   misconception-mapped distractors on one specific concept, a diagnostic
   question bank fits better.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Formative Assessment
-    - Assessment And Feedback
-    - Student Progress Tracking
-  topics: Retrieval Practice
-  keyword:
-    - Retrieval Practice
-    - Spaced Practice
-    - Interleaving
-    - Testing Effect
-    - Low-Stakes Quiz
+prompts:
+  - "/retrieval-practice-quiz Build a spaced review quiz pulling from the last four weeks of content."
+  - "/retrieval-practice-quiz Create an interleaved quiz to keep old topics fresh for my Year 9 class."
+  - "Give me a low-stakes fortnightly retrieval quiz with an answer key using /retrieval-practice-quiz."
 references:
   - "Henry L. Roediger III and Jeffrey D. Karpicke, Perspectives on Psychological Science (Association for Psychological Science)"
   - "Australian Education Research Organisation (AERO)"

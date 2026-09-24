@@ -10,20 +10,10 @@ description: >
   given one. Produces drafts for teacher review, never finished text.
   Trigger when a teacher asks to write, draft, or generate report comments
   for one student or a whole class.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Assessment And Feedback
-    - Student Progress Tracking
-    - Family & Community Engagement
-  topics: Assessment And Reporting
-  keyword:
-    - Report Comment
-    - Achievement Standard Language
-    - Grade Band Descriptor
-    - Student Progress Narrative
+prompts:
+  - "/report-comment Draft report comments for my whole Year 7 English class."
+  - "/report-comment Write a personalised report comment for a student who is achieving at a sound level."
+  - "Generate report comment drafts grounded in the achievement standards for this subject using /report-comment."
 references:
   - "NSW Department of Education"
   - "Victorian Department of Education"

@@ -15,22 +15,10 @@ description: >
   accredited." Do NOT trigger this for registration renewal, maintenance,
   or professional development (PD) hour tracking — that is a separate,
   much lighter self-declaration process and needs a different skill.
-keywords:
-  content-type: Professional Development
-  thematic-category: Teacher Certification And Registration
-  use-case-theme: Career Progression And Standards Evidence
-  use-case:
-    - Teacher Accreditation
-    - Evidence Portfolio
-    - Standards Mapping
-  topics: Initial Accreditation, HALT Certification
-  keyword:
-    - Proficient Teacher
-    - Highly Accomplished Teacher
-    - Lead Teacher
-    - Annotated Evidence
-    - Standard Descriptors
-    - APST
+prompts:
+  - "I'm applying for Proficient Teacher accreditation and need help selecting evidence for Standard 3 — can /accreditation-evidence-builder help?"
+  - "Help me draft an annotation mapping this lesson observation to APST descriptors using /accreditation-evidence-builder."
+  - "/accreditation-evidence-builder Check my evidence portfolio for coverage gaps across the 7 Standards before I submit."
 references:
   - "Australian Institute for Teaching and School Leadership (AITSL)"
   - "NSW Education Standards Authority (NESA)"

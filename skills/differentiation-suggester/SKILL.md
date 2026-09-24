@@ -10,20 +10,10 @@ description: >
   for before I write this lesson," "give me support and extension options
   for this topic," or "help me plan for my EAL/D and learning-support
   students." Best used before lesson or unit planning, but works standalone.
-keywords:
-  content-type: Pedagogical Guidance
-  thematic-category: Special Education Requirements
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Personalised Learning
-    - Curriculum & Lesson Planning
-    - Resource Generation
-  topics: Differentiated Instruction
-  keyword:
-    - Differentiation Menu
-    - Support And Extension
-    - EAL/D Support
-    - Universal Design For Learning
+prompts:
+  - "/differentiation-suggester Give me support and extension options for a Year 6 fractions lesson before I plan it."
+  - "What differentiation should I plan for my EAL/D and learning-support students? Try /differentiation-suggester."
+  - "/differentiation-suggester Suggest a menu of differentiation options for an upcoming unit on ecosystems."
 references:
   - "AITSL"
   - "ACARA"

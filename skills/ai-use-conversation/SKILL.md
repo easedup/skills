@@ -14,21 +14,10 @@ description: >
   polishing the teacher's own drafted output so it doesn't read as
   AI-written, a voice check fits better — this skill is about a student's
   submitted assessment, not the teacher's own writing.
-keywords:
-  content-type: Pedagogical Guidance
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Assessment And Feedback
-    - Student-Teacher Comms & Feedback
-    - Teacher Training & Personal Development
-  topics: Academic Integrity
-  keyword:
-    - Academic Integrity
-    - AI Literacy
-    - Assessment Redesign
-    - Process Evidence
-    - Undisclosed AI Use
+prompts:
+  - "/ai-use-conversation A student submitted an essay that reads nothing like their usual writing — help me plan a conversation with them."
+  - "/ai-use-conversation Redesign this assignment so undisclosed AI use is harder to get away with next time."
+  - "Help me talk to a student about suspected AI use without accusing them outright, using /ai-use-conversation."
 references:
   - "Perkins, M. et al., International Journal of Educational Technology in Higher Education"
   - "Stanford Institute for Human-Centered Artificial Intelligence (HAI)"

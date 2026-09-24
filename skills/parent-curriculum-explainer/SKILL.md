@@ -10,19 +10,10 @@ description: >
   memory. Trigger when a teacher asks for a parent curriculum explainer,
   curriculum night handout, newsletter blurb, or unit overview letter for
   families.
-keywords:
-  content-type: Learning Objectives
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Family & Community Engagement
-    - Resource Generation
-  topics: Family And Community Engagement
-  keyword:
-    - Curriculum Night Handout
-    - Achievement Standard Translation
-    - Unit Overview Letter
-    - Plain-English Explainer
+prompts:
+  - "/parent-curriculum-explainer Translate this term's science curriculum content into a plain-English handout for families."
+  - "/parent-curriculum-explainer Write a curriculum night handout explaining what students are learning and why."
+  - "Create a unit overview letter for families explaining how they can help at home using /parent-curriculum-explainer."
 references:
   - "ACARA"
   - "AITSL"

@@ -10,21 +10,10 @@ description: >
   achievement descriptors before generating; never invents them. Trigger
   when a teacher needs to write up a formal assessment task, brief, or task
   sheet for any subject or year level. Works standalone.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Curriculum & Lesson Planning
-    - Assessment And Feedback
-    - Personalised Learning
-  topics: Assessment Design
-  keyword:
-    - Task Outline
-    - Assessment Conditions
-    - Task Brief
-    - Curriculum Links
-    - Achievement Descriptors
+prompts:
+  - "/assessment-outline Write a formal assessment task outline for a Year 9 persuasive essay."
+  - "/assessment-outline Create a task brief for a Stage 5 science investigation, including conditions and mode."
+  - "Draft an assessment outline linked to the rubric for my Year 11 assignment using /assessment-outline."
 references:
   - "NSW Education Standards Authority (NESA)"
   - "Australian Curriculum, Assessment and Reporting Authority (ACARA)"

@@ -13,20 +13,10 @@ description: >
   content itself into plain English for families — what students are
   learning this unit and why — a parent curriculum explainer fits better
   than this skill.
-keywords:
-  content-type: Administrative Guidance
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Student-Teacher Comms & Feedback
-    - Family & Community Engagement
-  topics: Family And Community Engagement
-  keyword:
-    - Parent Newsletter
-    - Excursion Note
-    - Learning Update
-    - Learning Concern Letter
-    - End-Of-Term Wrap-Up
+prompts:
+  - "/parent-comms Write a class newsletter update for this term."
+  - "/parent-comms Draft an excursion note for families about our upcoming museum trip."
+  - "Write a letter home about a student's learning concerns in a warm, plain-English tone using /parent-comms."
 references:
   - "AITSL"
   - "Education Endowment Foundation"

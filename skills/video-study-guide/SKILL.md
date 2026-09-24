@@ -13,21 +13,10 @@ description: >
   flipped-classroom task. Does not watch or transcribe video itself — needs
   the transcript text supplied or fetched by whatever capability is
   available in the session.
-keywords:
-  content-type: Teaching Resource
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Resource Generation
-    - Curriculum & Lesson Planning
-    - Personalised Learning
-  topics: Video-Based Learning
-  keyword:
-    - Video Transcript
-    - Study Guide
-    - Flipped Classroom
-    - Comprehension Questions
-    - Multimedia Learning
+prompts:
+  - "/video-study-guide Turn this video transcript into a study guide with comprehension questions."
+  - "/video-study-guide Build a flipped-classroom task from this lecture transcript."
+  - "Create pre-viewing vocabulary and post-viewing discussion prompts from this transcript using /video-study-guide."
 references:
   - "Richard E. Mayer and Logan Fiorella, in The Cambridge Handbook of Multimedia Learning (Cambridge University Press)"
   - "Australasian Journal of Educational Technology (AJET)"
