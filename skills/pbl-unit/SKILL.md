@@ -14,9 +14,9 @@ description: >
   generating. For inquiry-based learning units without a product or public
   audience focus, an inquiry-based-learning unit fits better than a PBL unit.
 prompts:
-  - "/pbl-unit Build a project-based learning unit on local water quality for Year 8 science."
-  - "/pbl-unit Design a project with a public product and real audience for my English class."
-  - "Create a project-based unit with a driving question and milestones for Year 10 using /pbl-unit."
+  - "Build a project-based learning unit on local water quality for Year 8 science."
+  - "Design a project with a public product and real audience for my English class."
+  - "Create a project-based unit with a driving question and milestones for Year 10."
 references:
   - "Buck Institute for Education / PBLWorks"
   - "Condliffe et al. (MDRC)"

@@ -14,9 +14,9 @@ description: >
   misconception-mapped distractors on one specific concept, a diagnostic
   question bank fits better.
 prompts:
-  - "/retrieval-practice-quiz Build a spaced review quiz pulling from the last four weeks of content."
-  - "/retrieval-practice-quiz Create an interleaved quiz to keep old topics fresh for my Year 9 class."
-  - "Give me a low-stakes fortnightly retrieval quiz with an answer key using /retrieval-practice-quiz."
+  - "Build a spaced review quiz pulling from the last four weeks of content."
+  - "Create an interleaved quiz to keep old topics fresh for my Year 9 class."
+  - "Give me a low-stakes fortnightly retrieval quiz with an answer key."
 references:
   - "Henry L. Roediger III and Jeffrey D. Karpicke, Perspectives on Psychological Science (Association for Psychological Science)"
   - "Australian Education Research Organisation (AERO)"

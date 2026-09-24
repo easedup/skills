@@ -14,9 +14,9 @@ description: >
   learning this unit and why — a parent curriculum explainer fits better
   than this skill.
 prompts:
-  - "/parent-comms Write a class newsletter update for this term."
-  - "/parent-comms Draft an excursion note for families about our upcoming museum trip."
-  - "Write a letter home about a student's learning concerns in a warm, plain-English tone using /parent-comms."
+  - "Write a class newsletter update for this term."
+  - "Draft an excursion note for families about our upcoming museum trip."
+  - "Write a letter home about a student's learning concerns in a warm, plain-English tone."
 references:
   - "AITSL"
   - "Education Endowment Foundation"

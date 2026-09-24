@@ -11,9 +11,9 @@ description: >
   curriculum night handout, newsletter blurb, or unit overview letter for
   families.
 prompts:
-  - "/parent-curriculum-explainer Translate this term's science curriculum content into a plain-English handout for families."
-  - "/parent-curriculum-explainer Write a curriculum night handout explaining what students are learning and why."
-  - "Create a unit overview letter for families explaining how they can help at home using /parent-curriculum-explainer."
+  - "Translate this term's science curriculum content into a plain-English handout for families."
+  - "Write a curriculum night handout explaining what students are learning and why."
+  - "Create a unit overview letter for families explaining how they can help at home."
 references:
   - "ACARA"
   - "AITSL"

@@ -12,9 +12,9 @@ description: >
   produce a file — outputs slide structure and content for the teacher to
   build in PowerPoint, Google Slides, Canva, or Keynote.
 prompts:
-  - "/slide-deck Turn this lesson plan into a slide-by-slide presentation with speaker notes."
-  - "/slide-deck Build a lesson presentation outline for teaching photosynthesis."
-  - "Create lesson slides with speaker notes I can build out in Google Slides using /slide-deck."
+  - "Turn this lesson plan into a slide-by-slide presentation with speaker notes."
+  - "Build a lesson presentation outline for teaching photosynthesis."
+  - "Create lesson slides with speaker notes I can build out in Google Slides."
 references:
   - "Australian Education Research Organisation (AERO)"
   - "Centre for Education Statistics and Evaluation (CESE), NSW Department of Education"

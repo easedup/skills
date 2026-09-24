@@ -11,9 +11,9 @@ description: >
   validates with the teacher before expanding into full lesson-by-lesson
   detail.
 prompts:
-  - "/unit-outline Map out a high-level unit outline for a Year 7 history term."
-  - "/unit-outline Create a scope and sequence with essential questions for my science unit."
-  - "Build a unit overview to share with colleagues before I plan full lessons using /unit-outline."
+  - "Map out a high-level unit outline for a Year 7 history term."
+  - "Create a scope and sequence with essential questions for my science unit."
+  - "Build a unit overview to share with colleagues before I plan full lessons."
 references:
   - "Australian Curriculum, Assessment and Reporting Authority (ACARA), V9 Australian Curriculum"
   - "Australian Institute for Teaching and School Leadership (AITSL)"
