@@ -10,21 +10,10 @@ description: >
   student-facing instructions, or a task handout. Works standalone; if a
   lesson plan, unit, or assessment task is already in context it's used as
   the source, otherwise the teacher supplies or describes one.
-keywords:
-  content-type: Teaching Resource
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Resource Generation
-    - Personalised Learning
-    - Curriculum & Lesson Planning
-  topics: Scaffolded Instruction
-  keyword:
-    - Sentence Starters
-    - Worked Example
-    - Success Criteria
-    - Extension Task
-    - Vocabulary Support
+prompts:
+  - "/student-task-sheet Turn this lesson plan into a student-facing task sheet."
+  - "/student-task-sheet Create a task handout with scaffolds and success criteria in student language."
+  - "Build a student task sheet from this assessment task, including an extension prompt, using /student-task-sheet."
 references:
   - "Australian Education Research Organisation (AERO)"
   - "NSW Department of Education (explicit teaching technique guide)"

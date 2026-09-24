@@ -11,21 +11,10 @@ description: >
   is gathered to ground learning intentions and success criteria. Does not
   produce a file — outputs slide structure and content for the teacher to
   build in PowerPoint, Google Slides, Canva, or Keynote.
-keywords:
-  content-type: Teaching Resource
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Resource Generation
-    - Curriculum & Lesson Planning
-    - Personalised Learning
-  topics: Cognitive Load
-  keyword:
-    - Speaker Notes
-    - Slide Style
-    - Coherence Principle
-    - Chunking
-    - Working Memory
+prompts:
+  - "/slide-deck Turn this lesson plan into a slide-by-slide presentation with speaker notes."
+  - "/slide-deck Build a lesson presentation outline for teaching photosynthesis."
+  - "Create lesson slides with speaker notes I can build out in Google Slides using /slide-deck."
 references:
   - "Australian Education Research Organisation (AERO)"
   - "Centre for Education Statistics and Evaluation (CESE), NSW Department of Education"

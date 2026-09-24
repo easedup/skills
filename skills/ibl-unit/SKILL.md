@@ -13,20 +13,10 @@ description: >
   content before generating. For units that require a public product and
   real-world audience as the organising structure, a project-based-learning
   unit fits better than an inquiry unit.
-keywords:
-  content-type: Lesson/Unit Plan
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Curriculum & Lesson Planning
-    - Resource Generation
-    - Personalised Learning
-  topics: Inquiry-Based Learning
-  keyword:
-    - Inquiry-Based Learning
-    - Guided Inquiry
-    - Inquiry Cycle
-    - Central Inquiry Question
+prompts:
+  - "/ibl-unit Build an inquiry-based learning unit on ecosystems for Year 6."
+  - "/ibl-unit Design a guided inquiry unit for Year 6 history with a central inquiry question."
+  - "Create an IBL unit using an open inquiry model for my science class with /ibl-unit."
 references:
   - "Corwin / John Hattie"
   - "Kirschner, Sweller & Clark"

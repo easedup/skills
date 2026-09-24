@@ -11,19 +11,10 @@ description: >
   communications, or feedback phrases — to apply the same voice. Trigger
   when a teacher wants to personalise AI-drafted report comments or parent
   communications, or asks to save or reuse their writing style.
-keywords:
-  content-type: Pedagogical Guidance
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Teacher Voice & Style Capture
-    - Resource Generation
-  topics: Teacher Professional Practice
-  keyword:
-    - Voice Profile
-    - Tone Matching
-    - Writing Sample Analysis
-    - Voice Profile Skill File
+prompts:
+  - "/voice-style-capture Learn my writing voice from these three report comment samples."
+  - "/voice-style-capture Save a voice profile from my past parent newsletters so future drafts sound like me."
+  - "Analyse my writing style from this sample so report comments match my tone using /voice-style-capture."
 references:
   - "Janet Goodall & Caroline Montgomery"
   - "AITSL"

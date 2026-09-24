@@ -12,21 +12,10 @@ description: >
   finalising. Trigger when a teacher is planning a term or year's assessment
   program, or wants to share an assessment overview with students and
   families.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Curriculum & Lesson Planning
-    - Assessment And Feedback
-    - Student Progress Tracking
-  topics: Assessment Planning
-  keyword:
-    - Assessment Schedule
-    - Term Planning
-    - Standards Mapping
-    - Balance Check
-    - Reporting Alignment
+prompts:
+  - "/assessment-schedule Build a Term 3 assessment schedule for Year 8 across all my subjects."
+  - "/assessment-schedule Check my year's assessment plan for clustering or coverage gaps."
+  - "Create a year-level assessment overview to share with families using /assessment-schedule."
 references:
   - "NSW Department of Education (CESE)"
   - "NSW Education Standards Authority (NESA)"

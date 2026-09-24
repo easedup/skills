@@ -13,20 +13,10 @@ description: >
   standalone and always grounds the unit in curriculum content before
   generating. For inquiry-based learning units without a product or public
   audience focus, an inquiry-based-learning unit fits better than a PBL unit.
-keywords:
-  content-type: Lesson/Unit Plan
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Curriculum & Lesson Planning
-    - Resource Generation
-    - Personalised Learning
-  topics: Project-Based Learning
-  keyword:
-    - Project-Based Learning
-    - Driving Question
-    - Public Product
-    - Gold Standard PBL
+prompts:
+  - "/pbl-unit Build a project-based learning unit on local water quality for Year 8 science."
+  - "/pbl-unit Design a project with a public product and real audience for my English class."
+  - "Create a project-based unit with a driving question and milestones for Year 10 using /pbl-unit."
 references:
   - "Buck Institute for Education / PBLWorks"
   - "Condliffe et al. (MDRC)"

@@ -15,21 +15,10 @@ description: >
   set of support and extension ideas, a differentiation suggester fits
   better; for adjusting an existing text's English complexity, a reading
   level adapter fits better.
-keywords:
-  content-type: Pedagogical Guidance
-  thematic-category: Special Education Requirements
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Personalised Learning
-    - Resource Generation
-    - Curriculum & Lesson Planning
-  topics: EAL/D Scaffolding
-  keyword:
-    - Translanguaging
-    - Sentence Frames
-    - Bilingual Glossary
-    - Dual Coding
-    - Proficiency Phase
+prompts:
+  - "/language-scaffold-builder Build a scaffold pack for my EAL/D students studying this unit."
+  - "How do I support a new-to-English student in this history topic? Try /language-scaffold-builder."
+  - "/language-scaffold-builder Give me sentence frames and a vocabulary glossary for my ELL students."
 references:
   - "Ofelia García, Susana Ibarra Johnson & Kate Seltzer"
   - "The Bell Foundation"

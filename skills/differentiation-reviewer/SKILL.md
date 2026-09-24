@@ -9,20 +9,10 @@ description: >
   rather than a rewrite. Trigger on requests like "check this lesson for
   differentiation gaps," "review this unit for EAL/D support," or "does this
   plan work for my learning-support students." Works standalone.
-keywords:
-  content-type: Pedagogical Guidance
-  thematic-category: Special Education Requirements
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Personalised Learning
-    - Curriculum & Lesson Planning
-    - Teacher Training & Personal Development
-  topics: Differentiated Instruction
-  keyword:
-    - Differentiation Review
-    - Inclusion Gap Analysis
-    - EAL/D Support
-    - Universal Design For Learning
+prompts:
+  - "/differentiation-reviewer Review this lesson plan for differentiation gaps against AITSL Standard 1.5."
+  - "/differentiation-reviewer Check whether this unit supports my EAL/D and learning-support students."
+  - "Audit this lesson for inclusion gaps and give me prioritised adjustments using /differentiation-reviewer."
 references:
   - "AITSL"
   - "Department of Education, Victoria"

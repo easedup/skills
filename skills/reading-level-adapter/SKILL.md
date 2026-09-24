@@ -13,21 +13,10 @@ description: >
   broader support and extension options beyond text itself, a
   differentiation suggester fits better; for scaffolds built specifically
   around a student's home language, a language scaffold builder fits better.
-keywords:
-  content-type: Teaching Resource
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Personalised Learning
-    - Resource Generation
-    - Curriculum & Lesson Planning
-  topics: Text Accessibility
-  keyword:
-    - Reading Level
-    - Text Adaptation
-    - Adaptive Teaching
-    - Vocabulary Load
-    - Sentence Complexity
+prompts:
+  - "/reading-level-adapter Simplify this science passage for students who find the language a barrier."
+  - "/reading-level-adapter Lower the reading level of these instructions without changing the content."
+  - "Adapt this text to my Year 5 curriculum year-level language using /reading-level-adapter."
 references:
   - "Council of Chief State School Officers"
   - "Ofsted"

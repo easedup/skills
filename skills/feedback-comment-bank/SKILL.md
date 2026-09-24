@@ -9,21 +9,10 @@ description: >
   Trigger when a teacher needs to mark a class set faster and more
   consistently, wants ready-made report-comment language, or already has a
   rubric or assessment outline and needs feedback phrases to match it.
-keywords:
-  content-type: Assessment
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Assessment And Feedback
-    - Student-Teacher Comms & Feedback
-    - Resource Generation
-  topics: Marking And Feedback
-  keyword:
-    - Feedback Phrases
-    - Comment Bank
-    - Grade Band
-    - Marking
-    - Report Comments
+prompts:
+  - "/feedback-comment-bank Build a bank of feedback phrases for my persuasive writing rubric."
+  - "/feedback-comment-bank Generate ready-made comment language by grade band for this assessment."
+  - "I need feedback phrases to match my existing rubric for marking a class set faster — use /feedback-comment-bank."
 references:
   - "John Hattie and Helen Timperley, Review of Educational Research (American Educational Research Association)"
   - "Joe Collin and Alex Quigley, Education Endowment Foundation (EEF)"

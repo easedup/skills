@@ -11,22 +11,10 @@ description: >
   detail without first confirming the unit shape. Builds each lesson to a
   full lesson-plan structure internally, so every lesson is consistent and
   curriculum-aligned throughout. Works standalone.
-keywords:
-  content-type: Lesson/Unit Plan
-  thematic-category: Education Objectives And Materials
-  use-case-theme: Student Learning And Performance
-  use-case:
-    - Curriculum & Lesson Planning
-    - Resource Generation
-    - Personalised Learning
-    - Student Progress Tracking
-  topics: Curriculum Sequencing
-  keyword:
-    - Backward Design
-    - Curriculum Mapping
-    - Lesson Progression
-    - Differentiation
-    - Standards Alignment
+prompts:
+  - "/unit-of-work Expand my confirmed unit outline into a full unit of work, lesson by lesson."
+  - "/unit-of-work Build a complete term of lessons from this unit outline."
+  - "Turn this unit outline into ready-to-teach lesson plans using /unit-of-work."
 references:
   - "Australian Curriculum, Assessment and Reporting Authority (ACARA), V9 Australian Curriculum"
   - "Australian Institute for Teaching and School Leadership (AITSL)"
