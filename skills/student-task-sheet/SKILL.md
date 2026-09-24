@@ -11,9 +11,9 @@ description: >
   lesson plan, unit, or assessment task is already in context it's used as
   the source, otherwise the teacher supplies or describes one.
 prompts:
-  - "/student-task-sheet Turn this lesson plan into a student-facing task sheet."
-  - "/student-task-sheet Create a task handout with scaffolds and success criteria in student language."
-  - "Build a student task sheet from this assessment task, including an extension prompt, using /student-task-sheet."
+  - "Turn this lesson plan into a student-facing task sheet."
+  - "Create a task handout with scaffolds and success criteria in student language."
+  - "Build a student task sheet from this assessment task, including an extension prompt."
 references:
   - "Australian Education Research Organisation (AERO)"
   - "NSW Department of Education (explicit teaching technique guide)"

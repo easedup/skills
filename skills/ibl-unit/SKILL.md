@@ -14,9 +14,9 @@ description: >
   real-world audience as the organising structure, a project-based-learning
   unit fits better than an inquiry unit.
 prompts:
-  - "/ibl-unit Build an inquiry-based learning unit on ecosystems for Year 6."
-  - "/ibl-unit Design a guided inquiry unit for Year 6 history with a central inquiry question."
-  - "Create an IBL unit using an open inquiry model for my science class with /ibl-unit."
+  - "Build an inquiry-based learning unit on ecosystems for Year 6."
+  - "Design a guided inquiry unit for Year 6 history with a central inquiry question."
+  - "Create an IBL unit using an open inquiry model for my science class."
 references:
   - "Corwin / John Hattie"
   - "Kirschner, Sweller & Clark"

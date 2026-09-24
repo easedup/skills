@@ -13,9 +13,9 @@ description: >
   program, or wants to share an assessment overview with students and
   families.
 prompts:
-  - "/assessment-schedule Build a Term 3 assessment schedule for Year 8 across all my subjects."
-  - "/assessment-schedule Check my year's assessment plan for clustering or coverage gaps."
-  - "Create a year-level assessment overview to share with families using /assessment-schedule."
+  - "Build a Term 3 assessment schedule for Year 8 across all my subjects."
+  - "Check my year's assessment plan for clustering or coverage gaps."
+  - "Create a year-level assessment overview to share with families."
 references:
   - "NSW Department of Education (CESE)"
   - "NSW Education Standards Authority (NESA)"

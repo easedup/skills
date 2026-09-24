@@ -16,9 +16,9 @@ description: >
   or professional development (PD) hour tracking — that is a separate,
   much lighter self-declaration process and needs a different skill.
 prompts:
-  - "I'm applying for Proficient Teacher accreditation and need help selecting evidence for Standard 3 — can /accreditation-evidence-builder help?"
-  - "Help me draft an annotation mapping this lesson observation to APST descriptors using /accreditation-evidence-builder."
-  - "/accreditation-evidence-builder Check my evidence portfolio for coverage gaps across the 7 Standards before I submit."
+  - "I'm applying for Proficient Teacher accreditation and need help selecting evidence for Standard 3."
+  - "Help me draft an annotation mapping this lesson observation to APST descriptors."
+  - "Check my evidence portfolio for coverage gaps across the 7 Standards before I submit."
 references:
   - "Australian Institute for Teaching and School Leadership (AITSL)"
   - "NSW Education Standards Authority (NESA)"

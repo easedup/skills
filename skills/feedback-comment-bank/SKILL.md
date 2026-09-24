@@ -10,9 +10,9 @@ description: >
   consistently, wants ready-made report-comment language, or already has a
   rubric or assessment outline and needs feedback phrases to match it.
 prompts:
-  - "/feedback-comment-bank Build a bank of feedback phrases for my persuasive writing rubric."
-  - "/feedback-comment-bank Generate ready-made comment language by grade band for this assessment."
-  - "I need feedback phrases to match my existing rubric for marking a class set faster — use /feedback-comment-bank."
+  - "Build a bank of feedback phrases for my persuasive writing rubric."
+  - "Generate ready-made comment language by grade band for this assessment."
+  - "I need feedback phrases to match my existing rubric for marking a class set faster."
 references:
   - "John Hattie and Helen Timperley, Review of Educational Research (American Educational Research Association)"
   - "Joe Collin and Alex Quigley, Education Endowment Foundation (EEF)"

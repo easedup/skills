@@ -14,9 +14,9 @@ description: >
   the transcript text supplied or fetched by whatever capability is
   available in the session.
 prompts:
-  - "/video-study-guide Turn this video transcript into a study guide with comprehension questions."
-  - "/video-study-guide Build a flipped-classroom task from this lecture transcript."
-  - "Create pre-viewing vocabulary and post-viewing discussion prompts from this transcript using /video-study-guide."
+  - "Turn this video transcript into a study guide with comprehension questions."
+  - "Build a flipped-classroom task from this lecture transcript."
+  - "Create pre-viewing vocabulary and post-viewing discussion prompts from this transcript."
 references:
   - "Richard E. Mayer and Logan Fiorella, in The Cambridge Handbook of Multimedia Learning (Cambridge University Press)"
   - "Australasian Journal of Educational Technology (AJET)"

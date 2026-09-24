@@ -11,9 +11,9 @@ description: >
   for this topic," or "help me plan for my EAL/D and learning-support
   students." Best used before lesson or unit planning, but works standalone.
 prompts:
-  - "/differentiation-suggester Give me support and extension options for a Year 6 fractions lesson before I plan it."
-  - "What differentiation should I plan for my EAL/D and learning-support students? Try /differentiation-suggester."
-  - "/differentiation-suggester Suggest a menu of differentiation options for an upcoming unit on ecosystems."
+  - "Give me support and extension options for a Year 6 fractions lesson before I plan it."
+  - "What differentiation should I plan for my EAL/D and learning-support students in this topic?"
+  - "Suggest a menu of differentiation options for an upcoming unit on ecosystems."
 references:
   - "AITSL"
   - "ACARA"

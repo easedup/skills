@@ -14,9 +14,9 @@ description: >
   differentiation suggester fits better; for scaffolds built specifically
   around a student's home language, a language scaffold builder fits better.
 prompts:
-  - "/reading-level-adapter Simplify this science passage for students who find the language a barrier."
-  - "/reading-level-adapter Lower the reading level of these instructions without changing the content."
-  - "Adapt this text to my Year 5 curriculum year-level language using /reading-level-adapter."
+  - "Simplify this science passage for students who find the language a barrier."
+  - "Lower the reading level of these instructions without changing the content."
+  - "Adapt this text to my Year 5 curriculum year-level language."
 references:
   - "Council of Chief State School Officers"
   - "Ofsted"

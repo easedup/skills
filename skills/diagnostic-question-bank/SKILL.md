@@ -14,9 +14,9 @@ description: >
   discussion, self-assessment), an exit ticket fits better; for spaced
   review of content taught weeks ago, a retrieval-practice quiz fits better.
 prompts:
-  - "/diagnostic-question-bank Build hinge questions to check for misconceptions about photosynthesis."
-  - "What do students usually get wrong about equivalent fractions? Use /diagnostic-question-bank to find out."
-  - "/diagnostic-question-bank Create a diagnostic question bank for a Year 7 concept with misconception-mapped distractors."
+  - "Build hinge questions to check for misconceptions about photosynthesis."
+  - "What do students usually get wrong about equivalent fractions? Give me diagnostic questions."
+  - "Create a diagnostic question bank for a Year 7 concept with misconception-mapped distractors."
 references:
   - "Dylan Wiliam"
   - "Black, P. & Wiliam, D., King's College London (Phi Delta Kappan)"

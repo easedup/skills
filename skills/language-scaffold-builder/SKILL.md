@@ -16,9 +16,9 @@ description: >
   better; for adjusting an existing text's English complexity, a reading
   level adapter fits better.
 prompts:
-  - "/language-scaffold-builder Build a scaffold pack for my EAL/D students studying this unit."
-  - "How do I support a new-to-English student in this history topic? Try /language-scaffold-builder."
-  - "/language-scaffold-builder Give me sentence frames and a vocabulary glossary for my ELL students."
+  - "Build a scaffold pack for my EAL/D students studying this unit."
+  - "How do I support a new-to-English student in this history topic?"
+  - "Give me sentence frames and a vocabulary glossary for my ELL students."
 references:
   - "Ofelia García, Susana Ibarra Johnson & Kate Seltzer"
   - "The Bell Foundation"

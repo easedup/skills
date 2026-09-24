@@ -13,9 +13,9 @@ description: >
   and year level. Output is plain language, jargon-free, and ready to hand to
   any relief teacher without further explanation.
 prompts:
-  - "/casual-relief-plan Build a full day relief pack for tomorrow — I'm off sick and haven't prepped cover notes."
-  - "/casual-relief-plan Create emergency sub plans for my Year 4 class from scratch, topic is fractions."
-  - "Turn my existing lesson plans into a relief day pack with student welfare info using /casual-relief-plan."
+  - "Build a full day relief pack for tomorrow — I'm off sick and haven't prepped cover notes."
+  - "Create emergency sub plans for my Year 4 class from scratch, topic is fractions."
+  - "Turn my existing lesson plans into a relief day pack with student welfare info included."
 references:
   - "Safe Work Australia"
   - "NSW Department of Education"

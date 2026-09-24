@@ -10,9 +10,9 @@ description: >
   to a lesson. Always grounds the plan in real curriculum content before
   generating; never invents curriculum codes or standards. Works standalone.
 prompts:
-  - "/lesson-planner Plan a lesson on Newton's laws of motion for Year 9 science."
-  - "/lesson-planner Create a lesson plan for a Year 3 literacy period with curriculum standards mapped."
-  - "Build a complete lesson plan with success criteria and differentiation for fractions using /lesson-planner."
+  - "Plan a lesson on Newton's laws of motion for Year 9 science."
+  - "Create a lesson plan for a Year 3 literacy period with curriculum standards mapped."
+  - "Build a complete lesson plan with success criteria and differentiation for fractions."
 references:
   - "Centre for Education Statistics and Evaluation (CESE), NSW Department of Education"
   - "Australian Institute for Teaching and School Leadership (AITSL)"

@@ -12,9 +12,9 @@ description: >
   when a teacher wants to personalise AI-drafted report comments or parent
   communications, or asks to save or reuse their writing style.
 prompts:
-  - "/voice-style-capture Learn my writing voice from these three report comment samples."
-  - "/voice-style-capture Save a voice profile from my past parent newsletters so future drafts sound like me."
-  - "Analyse my writing style from this sample so report comments match my tone using /voice-style-capture."
+  - "Learn my writing voice from these three report comment samples."
+  - "Save a voice profile from my past parent newsletters so future drafts sound like me."
+  - "Analyse my writing style from this sample so report comments match my tone."
 references:
   - "Janet Goodall & Caroline Montgomery"
   - "AITSL"
