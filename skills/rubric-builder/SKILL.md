@@ -11,9 +11,9 @@ description: >
   teacher needs a marking rubric, scoring guide, or grading criteria for any
   assessment task. Works standalone.
 prompts:
-  - "/rubric-builder Build a marking rubric for this Year 10 persuasive essay task."
-  - "/rubric-builder Create grading criteria drawn from the achievement standards for this assessment."
-  - "Design a 4-criteria rubric so two markers can grade consistently using /rubric-builder."
+  - "Build a marking rubric for this Year 10 persuasive essay task."
+  - "Create grading criteria drawn from the achievement standards for this assessment."
+  - "Design a 4-criteria rubric so two markers can grade consistently."
 references:
   - "Anders Jonsson and Gunilla Svingby, Educational Research Review (Elsevier)"
   - "Australian Institute for Teaching and School Leadership (AITSL)"

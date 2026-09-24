@@ -16,9 +16,9 @@ description: >
   conversation skill fits better — this skill never evaluates a student's
   submission, only the teacher's outgoing writing.
 prompts:
-  - "/voice-check Check this parent email for AI writing tells before I send it."
-  - "/voice-check Make this report comment sound less like a template and more like me."
-  - "Give this drafted newsletter a final voice pass before it goes out using /voice-check."
+  - "Check this parent email for AI writing tells before I send it."
+  - "Make this report comment sound less like a template and more like me."
+  - "Give this drafted newsletter a final voice pass before it goes out."
 references:
   - "AITSL"
   - "John Hattie and Helen Timperley, Review of Educational Research (American Educational Research Association)"

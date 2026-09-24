@@ -11,9 +11,9 @@ description: >
   Trigger when a teacher asks to write, draft, or generate report comments
   for one student or a whole class.
 prompts:
-  - "/report-comment Draft report comments for my whole Year 7 English class."
-  - "/report-comment Write a personalised report comment for a student who is achieving at a sound level."
-  - "Generate report comment drafts grounded in the achievement standards for this subject using /report-comment."
+  - "Draft report comments for my whole Year 7 English class."
+  - "Write a personalised report comment for a student who is achieving at a sound level."
+  - "Generate report comment drafts grounded in the achievement standards for this subject."
 references:
   - "NSW Department of Education"
   - "Victorian Department of Education"

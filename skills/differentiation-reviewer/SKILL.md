@@ -10,9 +10,9 @@ description: >
   differentiation gaps," "review this unit for EAL/D support," or "does this
   plan work for my learning-support students." Works standalone.
 prompts:
-  - "/differentiation-reviewer Review this lesson plan for differentiation gaps against AITSL Standard 1.5."
-  - "/differentiation-reviewer Check whether this unit supports my EAL/D and learning-support students."
-  - "Audit this lesson for inclusion gaps and give me prioritised adjustments using /differentiation-reviewer."
+  - "Review this lesson plan for differentiation gaps against AITSL Standard 1.5."
+  - "Check whether this unit supports my EAL/D and learning-support students."
+  - "Audit this lesson for inclusion gaps and give me prioritised adjustments."
 references:
   - "AITSL"
   - "Department of Education, Victoria"

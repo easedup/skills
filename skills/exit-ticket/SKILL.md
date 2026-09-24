@@ -11,9 +11,9 @@ description: >
   today's lesson before moving on, or as the closing step after a lesson
   plan already in context.
 prompts:
-  - "/exit-ticket Create a quick exit ticket to check if students understood today's lesson on ratios."
-  - "/exit-ticket Give me a differentiated exit ticket for mixed-readiness Year 5 students."
-  - "Write a self-assessment style exit ticket tied to today's learning intention using /exit-ticket."
+  - "Create a quick exit ticket to check if students understood today's lesson on ratios."
+  - "Give me a differentiated exit ticket for mixed-readiness Year 5 students."
+  - "Write a self-assessment style exit ticket tied to today's learning intention."
 references:
   - "NSW Department of Education (CESE)"
   - "NSW Department of Education"

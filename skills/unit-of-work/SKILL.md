@@ -12,9 +12,9 @@ description: >
   full lesson-plan structure internally, so every lesson is consistent and
   curriculum-aligned throughout. Works standalone.
 prompts:
-  - "/unit-of-work Expand my confirmed unit outline into a full unit of work, lesson by lesson."
-  - "/unit-of-work Build a complete term of lessons from this unit outline."
-  - "Turn this unit outline into ready-to-teach lesson plans using /unit-of-work."
+  - "Expand my confirmed unit outline into a full unit of work, lesson by lesson."
+  - "Build a complete term of lessons from this unit outline."
+  - "Turn this unit outline into ready-to-teach lesson plans."
 references:
   - "Australian Curriculum, Assessment and Reporting Authority (ACARA), V9 Australian Curriculum"
   - "Australian Institute for Teaching and School Leadership (AITSL)"
